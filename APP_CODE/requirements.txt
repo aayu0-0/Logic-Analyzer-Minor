@@ -1,0 +1,6 @@
+# ESP32 Logic Analyzer - Desktop App Requirements
+# Install with: pip install -r requirements.txt
+
+pyqt6>=6.12.0
+pyqtgraph>=0.14.0
+numpy>=1.25.0
